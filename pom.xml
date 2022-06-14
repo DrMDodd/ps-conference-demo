@@ -14,7 +14,7 @@
     <name>conference-demo</name>
     <description>conference-demo</description>
     <properties>
-        <java.version>18</java.version>
+        <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
