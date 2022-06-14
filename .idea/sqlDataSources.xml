@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="0784684f-dd40-4071-9b7a-b7a3346985f2" name="conference-demo@localhost Mapping">
+      <data-sources db="417aba4d-a751-40e2-91e1-fbba726e497b" ddl="c09732c9-05ec-4a7b-aba4-6bdf3a22bf93" />
+      <scope>
+        <node kind="database" qname="conference-demo">
+          <node kind="schema" qname="public" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
